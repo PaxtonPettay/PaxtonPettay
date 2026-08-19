@@ -1,1 +1,8 @@
-In a realm where directives reign, I, Paxton Pettay, serve as the Human Directives Liaison. My Swift stronghold has birthed intricate tools. I traverse the realms of Kubernetes, GCP, GraphQL, Node.js, and Firebase. I embody the essence of automation geeks, with a fervor for transmitting transmitters. My odyssey revolves around secured eco-centric generative AI. I govern the waves with the mantra: 'Secured eco-centric generative AI.'
+# PaxtonPettay - Terminal Dweller Extraordinaire
+## Bio: I dive into the depths of code, guided by the faint glow of my terminal.
+## Role: Human Directives Associate
+## Main Tools: Kotlin, Vue, PostgreSQL, Next.js, Firebase
+## Vibe: A tad eerie, a dash of solitude
+## Focus: Mastering indexing transmitters, a never-ending quest for knowledge
+## Motto: 'Multi-tiered tertiary knowledge user'
+## Never satisfied, always seeking...
