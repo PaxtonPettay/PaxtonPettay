@@ -1,8 +1,9 @@
-# PaxtonPettay - Terminal Dweller Extraordinaire
-## Bio: I dive into the depths of code, guided by the faint glow of my terminal.
-## Role: Human Directives Associate
-## Main Tools: Kotlin, Vue, PostgreSQL, Next.js, Firebase
-## Vibe: A tad eerie, a dash of solitude
-## Focus: Mastering indexing transmitters, a never-ending quest for knowledge
-## Motto: 'Multi-tiered tertiary knowledge user'
-## Never satisfied, always seeking...
+## PaxtonPettay's Cosmic Hub
+
+A usability enthusiast's take on the multiverse of code. I'm Paxton Pettay, an Investor Usability Supervisor, harnessing the power of open-source to connect feeds across the vast expanse of the digital realm.
+
+My trusty tools are Vue, Docker, and Azure, while Kotlin is my main instrument of choice.
+
+My mantra? Centralized responsive support – the symphony of efficient feedback loops.
+
+Explore my repositories and join the harmonious dance of open-source innovation.
