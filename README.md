@@ -1,9 +1,21 @@
-## PaxtonPettay's Cosmic Hub
+# PaxtonPettay
 
-A usability enthusiast's take on the multiverse of code. I'm Paxton Pettay, an Investor Usability Supervisor, harnessing the power of open-source to connect feeds across the vast expanse of the digital realm.
+Terminal adept, microchip wrangler. Senior Applications Executive with a penchant for the abstract.
 
-My trusty tools are Vue, Docker, and Azure, while Kotlin is my main instrument of choice.
+## Tools
 
-My mantra? Centralized responsive support – the symphony of efficient feedback loops.
+* GraphQL: The spec, the dream, the promise of a more harmonious universe.
+* Redis: A universe unto itself, a maze of persistence and impermanence.
+* Tailwind: The unyielding force of CSS, bending to our will.
 
-Explore my repositories and join the harmonious dance of open-source innovation.
+## Devolved Exuding Open Architecture
+
+A mantra, a creed, a way of life. Where complexity yields to elegance, and the pursuit of knowledge is the only true currency.
+
+
+## Focus
+
+Navigating the labyrinthine paths of microchips, seeking the hidden truths within.
+
+
+
