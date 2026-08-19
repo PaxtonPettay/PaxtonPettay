@@ -1,0 +1,17 @@
+name: TypeScript Test
+on:
+  push:
+    paths:
+      - '**.ts'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Install dependencies
+      run: npm install
+    - name: Build and test
+      run: npm run build && npm run test
+    - name: Exit successfully
+      run: exit 0
