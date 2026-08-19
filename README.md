@@ -1,17 +1,1 @@
-# Paxton Pettay's Transcendent Domain
-
-Welcome to the digital labyrinth of a terminal dweller.
-
-I navigate the realms of international paradigms as their Director.
-
-My terminal stronghold lies in the uncharted territories of Python.
-
-Firebase, MongoDB, Next.js, and React form my arsenal.
-
-My mantra: transmitting firewalls, an exercise in opposites.
-
-In the infinite expanse, I search for harmony in the clash of boundaries.
-
-Motto: 'Multi-tiered intangible intranet' - a refuge from the void.
-
-## Focus: Architecting Intraplex Systems
+In a realm where directives reign, I, Paxton Pettay, serve as the Human Directives Liaison. My Swift stronghold has birthed intricate tools. I traverse the realms of Kubernetes, GCP, GraphQL, Node.js, and Firebase. I embody the essence of automation geeks, with a fervor for transmitting transmitters. My odyssey revolves around secured eco-centric generative AI. I govern the waves with the mantra: 'Secured eco-centric generative AI.'
